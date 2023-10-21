@@ -1,2 +1,2 @@
 # terraform_project
-Terraform code (splunk
+multi tier app splited code 
